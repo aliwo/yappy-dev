@@ -35,3 +35,4 @@ print(lst)
 # key: 비교 기준
 # count: 리스트에 포함된 요소 x의 개수 세기
 # index: x의 위치값을 리턴한다.
+# 이 익명 함수는 인자 x를 전달 받아서 tuple(수정할 수 없는 list)을 return한다.
